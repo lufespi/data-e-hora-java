@@ -21,7 +21,7 @@
 - Cálculo de saldo de horas (horas extras ou faltantes);
 - Conversão de dados string para tipos de horário;
 - Diferença entre horários com precisão de minutos;
-- Projetos organizados por desafios (1 ao 9.
+- Projetos organizados por desafios (1 ao 9).
 
 ## 🚀 Como executar
 
