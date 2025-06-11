@@ -1,7 +1,7 @@
 <img width="100%" src="https://github.com/user-attachments/assets/83b2fb2a-5b0f-4d29-8d68-5ae2ea25352b">
 
 <p align="justify">
-  Repositório com exercícios práticos desenvolvidos durante os estudos de manipulação de data e hora em Java. Os desafios estão localizados no diretório <code>src</code> e abordam desde a leitura e formatação de horários até o cálculo de tempo trabalhado com base em horários de entrada e saída. Utilizando classes como <code>LocalTime</code>, <code>Duration</code> e <code>DateTimeFormatter</code>, os exercícios reforçam conceitos fundamentais de controle de tempo e interação com o usuário via terminal.
+  Repositório com exercícios práticos desenvolvidos durante os estudos de manipulação de data e hora em Java. Os desafios estão localizados no diretório <code>data-e-hora-java/src</code> e abordam desde a leitura e formatação de horários até o cálculo de tempo trabalhado com base em horários de entrada e saída. Utilizando classes como <code>LocalTime</code>, <code>Duration</code> e <code>DateTimeFormatter</code>, os exercícios reforçam conceitos fundamentais de controle de tempo e interação com o usuário via terminal.
 </p>
 
 ## 🧠 Conceitos Aplicados
